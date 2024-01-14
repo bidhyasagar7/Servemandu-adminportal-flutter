@@ -6,7 +6,7 @@ import 'package:servemandu_admin_web_portal1/widgets/simple_app_bar.dart';
 
 class AllBlockedSellersScreen extends StatefulWidget
 {
-  const AllBlockedSellersScreen({Key? key}) : super(key: key);
+   const AllBlockedSellersScreen({Key? key}) : super(key: key);
 
   @override
   State<AllBlockedSellersScreen> createState() => _AllBlockedSellersScreenState();
